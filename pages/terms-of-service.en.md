@@ -187,9 +187,4 @@ You may not assign these Terms without our consent. We may assign these Terms wi
 
 ## Contact Information
 
-For questions about these Terms of Service, please contact us at:
-
-**Email**: [Your contact email]
-**Address**: [Your business address]
-
-Thank you for using our Directory responsibly.
+For questions about these Terms of Service, thank you for using our Directory responsibly.

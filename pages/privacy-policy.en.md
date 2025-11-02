@@ -95,9 +95,4 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ## Contact Us
 
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
-
-**Email**: [Your contact email]
-**Address**: [Your business address]
-
-We are committed to addressing your concerns and protecting your privacy.
+If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, we are committed to addressing your concerns and protecting your privacy.

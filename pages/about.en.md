@@ -137,16 +137,13 @@ Whether you're looking to discover valuable resources or showcase your business 
 
 ## Contact Us
 
-We value communication and are here to help. Reach out for:
+We value communication and are here to help with:
 
 - Questions about our directory
 - Technical support or assistance
 - Partnership opportunities
 - Feedback and suggestions
 - Media inquiries
-
-**Email**: [Your contact email]
-**Address**: [Your business address]
 
 ## Looking Ahead
 
