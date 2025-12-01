@@ -1,5 +1,5 @@
 - id: time-tracking-cli-tools
-  name: Time Tracking CLI
+  name: Time Tracking CLI Package
 - id: automated-time-tracking
   name: Automated Time Tracking
 - id: desktop-time-tracking-applications
