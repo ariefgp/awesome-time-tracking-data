@@ -22,3 +22,13 @@
   name: Commerce
 - id: open-sources
   name: Open Sources
+- id: attendance-payroll-management
+  name: Attendance & Payroll Management
+- id: business-management
+  name: Business Management
+- id: field-team-management
+  name: Field Team Management
+- id: productivity-tools
+  name: Productivity Tools
+- id: resource-scheduling
+  name: Resource Scheduling
