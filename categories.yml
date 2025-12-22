@@ -13,7 +13,7 @@
 - id: mobile-time-tracking
   name: Mobile Time Tracking
 - id: web-based-time-tracking
-  name: Web-Based Time Tracking
+  name: Web Based Time Tracking
 - id: time-tracking-overview-resources
   name: Time Tracking Overview & Resources
 - id: countdown-interval-timers
@@ -32,3 +32,7 @@
   name: Productivity Tools
 - id: resource-scheduling
   name: Resource Scheduling
+- id: equipment-fleet-time-tracking
+  name: Equipment & Fleet Time Tracking
+- id: time-tracking-utilities-calculators
+  name: Time Tracking Utilities & Calculators
