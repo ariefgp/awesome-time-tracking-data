@@ -40,3 +40,5 @@
   name: Time Tracking Apis & Integrations
 - id: others
   name: Others
+- id: practices
+  name: Practices
