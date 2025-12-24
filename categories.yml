@@ -42,3 +42,5 @@
   name: Others
 - id: practices
   name: Practices
+- id: developer-time-tracking
+  name: Developer Time Tracking
