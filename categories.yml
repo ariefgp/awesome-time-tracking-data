@@ -38,3 +38,5 @@
   name: Time Tracking Utilities & Calculators
 - id: time-tracking-apis-integrations
   name: Time Tracking Apis & Integrations
+- id: others
+  name: Others
