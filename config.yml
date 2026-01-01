@@ -75,9 +75,9 @@ metadata:
     target_keywords: []
   initial_prompt: Time Tracking - Software, Methodologies and Practices
 custom_footer:
-  - label: footer.PRIVACY_POLICY
-    path: /pages/privacy-policy
   - label: footer.TERMS_OF_SERVICE
     path: /pages/terms-of-service
+  - label: footer.PRIVACY_POLICY
+    path: /pages/privacy-policy
   - label: footer.COOKIES
     path: /pages/cookies
