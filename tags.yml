@@ -254,3 +254,19 @@
   name: commerce
 - id: directory
   name: directory
+- id: work-management
+  name: work-management
+- id: calculation
+  name: calculation
+- id: geofencing
+  name: geofencing
+- id: absence-planning
+  name: absence-planning
+- id: timesheets
+  name: timesheets
+- id: construction
+  name: construction
+- id: job-costing
+  name: job-costing
+- id: calendar
+  name: calendar
