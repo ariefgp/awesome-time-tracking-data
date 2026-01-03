@@ -54,3 +54,38 @@ settings:
       currency: IDR
       weekly_price: 100
       monthly_price: 300
+logo:
+  logo_image: /logo-light.png
+  logo_image_dark: /logo-dark.png
+custom_hero:
+  enabled: false
+  source: /blocks/hero.md
+metadata:
+  last_request_data:
+    source_urls: []
+    config:
+      max_search_queries: 10
+      max_results_per_query: 5
+      max_pages_to_process: 10
+      relevance_threshold_content: 0.6
+      min_content_length_for_extraction: 100
+      ai_first_generation_enabled: false
+      content_filtering_enabled: true
+      prompt_comparison_confidence_threshold: 0.5
+    generation_method: create-update
+    update_with_pull_request: false
+    badge_evaluation_enabled: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Time Tracking
+    prompt: Time Tracking - Software, Methodologies and Practices
+    initial_categories: []
+    priority_categories: []
+    target_keywords: []
+  initial_prompt: Time Tracking - Software, Methodologies and Practices
+custom_footer:
+  - label: footer.TERMS_OF_SERVICE
+    path: /pages/terms-of-service
+  - label: footer.PRIVACY_POLICY
+    path: /pages/privacy-policy
+  - label: footer.COOKIES
+    path: /pages/cookies
