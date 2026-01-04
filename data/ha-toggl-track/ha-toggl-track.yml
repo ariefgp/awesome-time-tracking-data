@@ -70,3 +70,4 @@ markdown: >-
   - Sensor updates are subject to polling interval and may not reflect real-time
   changes immediately.
 updated_at: 2025-05-13 22:52
+status: pending
