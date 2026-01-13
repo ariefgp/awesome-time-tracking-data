@@ -1,0 +1,17 @@
+name: ha-toggl-track (Copy)
+description: A custom component that integrates Toggl Track API with Home
+  Assistant for tracking time.
+source_url: https://github.com/kquinsland/ha-toggl-track
+category:
+  - time-tracking-cli-tools
+tags:
+  - integration
+  - api
+  - open-source
+  - automation
+collections: []
+featured: false
+updated_at: 2026-01-13 07:23
+status: draft
+submitted_by: 7d6ac825-408d-4b8a-99f4-c692f04f7481
+submitted_at: 2026-01-13 07:23
