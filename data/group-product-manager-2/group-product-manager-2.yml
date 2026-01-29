@@ -13,13 +13,14 @@ tags:
 collections: []
 featured: false
 icon_url: ""
-updated_at: 2026-01-29 23:59
+updated_at: 2026-01-30 00:01
 status: approved
 submitted_by: 9ed50a0e-2ecc-423b-bff8-ee3c548b29ec
 submitted_at: 2025-12-11 08:29
 reviewed_by: admin
 reviewed_at: 2026-01-04 03:08
 location:
-  address: Godean, Sleman, Yogyakarta, Indonesia
-  latitude: -7.774935
-  longitude: 110.28519
+  address: Bangunjiwo, 55184, Kasihan, Bantul, Yogyakarta, Indonesia
+  latitude: -7.838657
+  longitude: 110.312515
+  is_remote: false
